@@ -3,9 +3,7 @@
      margin:200px auto;
    }
   
-   .input-field {
-     width: 100%;
-     padding: 10px;
+   .form-control{
      border: 1px solid #ccc;
      border-radius: 4px;
      font-size: 16px;
